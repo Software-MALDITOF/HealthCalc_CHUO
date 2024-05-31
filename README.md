@@ -5,6 +5,10 @@ Calculadora de web salud desarrollada por Software-MALDITOV para el Complejo Hos
 ## Práctica 8.
 
 Integrantes:
-* Marios Pascual
+* Mario Pascual  
 * Gonzalo Mesas
 * Carmen Rodríguez
+
+### Tablero
+![image](https://github.com/Software-MALDITOF/HealthCalc_CHUO/assets/81189485/2fe6fb82-8a6a-4c6e-96c9-be1a14d03928)
+
